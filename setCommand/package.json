@@ -1,0 +1,23 @@
+{
+  "name": "weather",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ivan-khr85",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "is-image": "^2.0.0",
+    "node-fetch": "^2.1.2",
+    "ramda": "^0.25.0",
+    "sharp": "^0.21.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "env-development": "^1.0.2",
+    "nodemon": "^1.17.3"
+  }
+}
